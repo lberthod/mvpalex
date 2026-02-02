@@ -64,4 +64,4 @@ If we continue, the next logical steps are:
 ## 🔧 Installation & Setup
 Refer to [SETUP_QUICK.md](./SETUP_QUICK.md) for 2-minute local environment setup.
 
-**Built by Cascade for Alex (MVP Slice 1)**
+**Built for Alex (MVP Slice 1)**
