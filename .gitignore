@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+web/dist/
+build/
+
+# Firebase
+.firebase/
+firebase-debug.log*
+.firebaserc
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.example
+web/.env
+web/.env.example
+backend/.env
+backend/.env.example
+
+# Deployment
+deploy/
+
+# Keys and Secrets
+*.json
+!package.json
+!package-lock.json
+!firebase.json
+!database.rules.json
+serviceAccountKey.json
+firebasekey.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+rajoute aussi les .env enxample + tout le dossier deploy
